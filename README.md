@@ -24,7 +24,7 @@ A React movie search application using the OMDB API
 
 Todo App
 A React todo application demonstrating state management , props and CRUD operations
-  . GitHub :https//github.com/vahidepey/todo-app
+  . GitHub :https://github.com/vahidepey/todo-app
 
 
 💻Currently Learning 
