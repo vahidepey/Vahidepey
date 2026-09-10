@@ -20,11 +20,13 @@ A modern ecommerce website built with React and JavaScript
 
 Movie Search App
 A React movie search application using the OMDB API
+  . live Demo : https://vahidepey.github.io/Movie-Search-App/
   . GitHub : https://github.com/vahidepey/Movie-Search-App
 
 Todo App
 A React todo application demonstrating state management , props and CRUD operations
-  . GitHub :https://github.com/vahidepey/todo-app
+  . live : https://vahidepey.github.io/todo-app/
+  . GitHub : https://github.com/vahidepey/todo-app
 
 
 💻Currently Learning 
